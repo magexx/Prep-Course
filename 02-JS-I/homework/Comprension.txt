@@ -1,0 +1,21 @@
+Las variables : es una forma que sirve para almacenar valores para usar adelante. 
+Existen 3 formas de realizar una variable
+Var = es un diminutivo para variable, es una forma de declarar la variable en ES5
+let = es similar a var pero se comporta de manera diferente como el "nivel de scope".
+const = es equivalente a una variable pero no se puede modificar despues de haberla creado, a diferencia de var, siempre se mantendra igual, por eso const' por el diminutivo de constante.
+
+
+Los Strings : Son bloques de texto donde siempre se definiran con comillas '', cualquier texto en comillas es un string.
+
+
+Funciones : Las funciones son muy importantes ya que con ellas podemos crear un objeto invocable, en el que nos puede servir para automatizar ciertos codigos y poder realizar una operacion especifica.
+
+Argumentos : los argumentos son unas variables que sirven para ejecutar datos en la ejecucion de una funcion.
+
+return : es una declaración que se utiliza para devolver algo, como una suma de ciertos numeros, datos de una funcion, etc, tambien cuando una funcion choca con una declaracion return, la funcion se detiene de inmediato, eso quiere decir que si hay codigo luego de ese return no sera ejecutada.
+
+
+If/Else : siempre que querramos realizar una accion condicionalmente utilizamos el if, ya que solo ejecutara un bloque de codigo si una condicion es verdadera y si no realizar otro codigo. si ciertos datos son correctos ejecutar un codigo, y si no lo es, otro.
+
+
+Los valores Booleanos : sirven para verificar si algo es verdadero, o es falso, es como un interruptor donde se puede decidir si es verdadero o falso, si es si o no.
