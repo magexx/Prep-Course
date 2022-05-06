@@ -1,0 +1,1 @@
+### Arrays : los arrays es quello que se utiliza para guardar datos, tener una coleccion de ellos, donde podemos guardar desde strings, booleanos, integers, inclusive funciones, ademas al almacenar los datos que podemos invocarlo luego, podemos eliminar y añadir nuevos datos, 

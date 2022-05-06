@@ -1,0 +1,8 @@
+ ### FOR : Es una especie de bucle donde se ejecuta un comando varias veces hasta llegar a un punto y detenerse, la manera de ejecucion de for, es declarar una variable, creamos una expresion condicional, y por ultimo incrementamos la variable, un ejemplo, declaramos la variable i que es igual a 0, y en su expresion condicional un ejemplo, mientras que i < 10, incrementa la variable, asi que i ya no es igual a 0 si no a 1, y vuelve a ejecutar, hasta llegar a 10, porque en su expresion condicional ya i no es < a 10
+
+
+ ### && : El operador logico && significa "Y" o en ingles "And" sirve para evaluar varias expresiones y solo devuelve true si ambas expresiones son true, si una de las dos expresiones es false, no se ejecutara.
+
+ ### || : El operador logico || hace una funcion muy parecida al operador && pero en este caso, evalua si al menos una de las expresiones es igual a true, se devuelve true, si ninguna es true, devuelve false.
+
+ ### ! : l operador logico ! que significa "NOT" es utilizado para determinar el contrario de una expresion, asi haciendo que una expresion que sea true, se transforme en false.
