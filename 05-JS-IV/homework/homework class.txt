@@ -1,0 +1,9 @@
+## Objetos : Un objeto es una instancia donde podemos guardar datos de algo, pudiendole dar asi caracteristicas, funciona parecido a un array, a diferencia que es mas flexible, nos sirve para asi guardar datos de forma mas exacta y accesible, ademas, dentro de un objeto podemos almacenar arrays, inclusive funciones.
+
+## Propiedades : las propiedades son aquellas caracteristicas que definen algun dato de un objeto, como edad, color, nombre, etc. nos sirve para tener una lista mas detallada y automatizada de un objeto.
+
+## Metodo : un metodo es conocido como una funcion, normalmente se dice metodo porque se utiliza dentro de un objeto, un metodo ejecuta un bloque de codigo, se puede invocar y dar argumentos.
+
+## For...in : un for in, itera sobre las propiedades de un objeto, haciendo un bucle ejecutando las instrucciones y registra los nombres de la propiedad y sus valores.
+
+## Notación de puntos vs notación de corchetes : En la mayoria de casos es mejor usar notación de puntos por la facilidad que nos da para escribirlo, aunque en algunas ocaciones no es posible utilizar, como por ejemplo, cuando el key de una propiedad es un string que tiene espacios, no se puede utilizar notacion de puntos.
